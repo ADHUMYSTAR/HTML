@@ -1,0 +1,110 @@
+.top{
+    background-color: #CDE8E5;
+    height: 630px;
+}
+.title{
+    font-family: "Sacramento", cursive;
+    font-weight: bold;
+    font-size: 5.625rem;
+    text-align: center;
+    color: #4D869C;
+}
+.para1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+    color: rgb(42, 42, 90);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.l1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 30px;
+}
+.mid{
+    background-color: #EEF7FF;
+    padding: 100px;
+}
+.myintroheader{
+    color: #4D869C;
+    text-align: center;
+    margin:10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.myimg{
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lead{
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(73, 73, 139);
+    font-size: 2rem;
+    margin-bottom: 200px;
+}
+.skills{
+    margin:20px;
+}
+.skill{
+    text-align: center;
+    padding: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4D869C;
+    font-size: 2.5rem;
+}
+.coding{
+    float: left;
+    margin: 20px;
+}
+.web{
+    float:right;
+}
+.codeintro{
+    margin-bottom: 150px;
+}
+.s{
+    padding: 20px;
+    text-align: left;
+    color: #427588;
+}
+.ss{
+    padding: 10px;
+    text-align: left;
+    color: #427588;
+}
+.webintro{
+    padding: 10px;
+    text-align: left;
+}
+.end{
+    background-color: #7AB2B2;
+}
+.subskill{
+    text-align: left;
+}
+.contact{
+    text-align: center;
+    padding:70px;
+    margin-top: 200px;
+    color: #4D869C;
+}
+.subcontact{
+    text-align: center;
+    font-size: 1.7rem;
+    font-family: DM serif text;
+}
+.end{
+    height:200px;
+    background-color: #4D869C;
+}
+.button{
+    background: #4D869C;
+    border-radius: 10%;
+    padding: 10px;
+    color: white;
+}
